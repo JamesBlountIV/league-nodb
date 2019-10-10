@@ -1,0 +1,28 @@
+.body{
+    background: url(https://images4.alphacoders.com/674/thumb-1920-674016.png);
+    width: 100vw;
+    height: 100vh;
+}
+
+div.header {
+    color: rgb(158, 152, 152);
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    font-size: 5vh;
+    font-weight: 550;    
+}
+
+h1 {
+    margin-left: 10vw;
+    color: rgb(109, 103, 56);
+}
+
+h2 { 
+    margin-left: 3vw;
+    color: rgb(109, 103, 56);
+}

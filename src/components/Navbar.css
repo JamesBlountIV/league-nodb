@@ -1,0 +1,28 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    width: 98vw;
+    height: 10vh;
+    background: url(https://images2.alphacoders.com/611/thumb-350-611981.jpg);
+    border: 2vh solid rgb(17, 17, 37);
+    border-right: 2vh solid rgb(17, 17, 37);
+}
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100vw;
+}
+li {
+    font-size: 3vh;;
+    display: flex;
+    align-items: center;
+}
+button{
+    cursor: pointer;
+    background: #252525;
+    border: 0;
+}
+button:hover {
+    color: rgb(109, 103, 56);
+    transition: ease 0.3s;
+}
